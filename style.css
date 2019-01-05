@@ -1,0 +1,55 @@
+.text-center h1{
+    text-align: center;
+}
+.top_container{
+    background:url(images/background.png) scroll 0 0 no-repeat;
+    background-size: cover;
+    height:535px;
+}
+.top_img {
+    margin-top: 55px;
+}
+.tltle_area {
+    color:#fff;
+}
+.tltle_area h1{
+    
+}
+.form_area {
+    background: #fff;
+    padding:20px;
+    border-radius: 10px;
+    width: 100%;
+    box-shadow: 0px 1px 3px #bbb;
+}
+.main_form {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #888;
+} 
+.two_steps {
+    text-align: center;
+    padding:15px;
+}
+.section_2, .section-4, .section-5 {
+    margin-bottom: 50px;
+    border-bottom: 1px solid #333;
+}
+.close_btn {
+    background:#333;
+    color:#fff;
+    padding:10px 30px;
+    margin-top:50px;
+    margin-bottom:50px;
+    border:none;
+    border-radius: 0;
+}
+.section-5 {
+    padding-bottom:150px;
+    width: 100%;
+    margin-bottom:15px;
+}
+.nav li a {
+    padding:15px;
+    color:#444;
+}
